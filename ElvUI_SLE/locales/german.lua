@@ -8,7 +8,7 @@ if not L then return end
 -- L["2 rows"] = ""
 -- L["3 rows"] = ""
 -- L["4 rows"] = ""
--- L["6 rows"] = ""
+-- L["6 rows"] = ""d
 -- L["Change the positioning of buttons on Microbar."] = ""
 -- L["Hide in Combat"] = ""
 -- L["Hide Microbar in combat."] = ""
@@ -21,4 +21,4 @@ L["Set Alpha"] = "Transparenz Einstellung"
 L["Sets alpha of the microbar"] = "Transparenz der Microleiste einstellen"
 L["Set Scale"] = "Größe einstellen"
 L["Sets Scale of the microbar"] = "Größe der Microleiste einstellen"
-L["Show backdrop for micromenu"] = "Hintergrund der Microleiste anzeigen"
+L["Show backdrop for micromenu"] = "Hintergrund der Microleiste anzeigen"dd
